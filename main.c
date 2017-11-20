@@ -1,4 +1,4 @@
-#include<stdio.h> //first program
+#include<stdio.h> //c
 #include<string.h>
 
 static int count=0;
